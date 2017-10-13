@@ -1,19 +1,19 @@
 <resources>
     <string name="app_name">Retro Text Editor</string>
-    <string name="fontOptions">Font</string>
-    <string name="bigger">increase +</string>
-    <string name="smaller">decrease -</string>
-    <string name="monospace">monospace</string>
-    <string name="errAccess">error on access</string>
-    <string name="errWrite">error on write</string>
-    <string name="errRead">error on read</string>
+    <string name="fontOptions">Fonte</string>
+    <string name="bigger">agrandir +</string>
+    <string name="smaller">réduire -</string>
+    <string name="monospace">chasse fixe</string>
+    <string name="errAccess">erreur d\'accès</string>
+    <string name="errWrite">erreur d\'écriture</string>
+    <string name="errRead">erreur de lecture</string>
 
     <string name="info">Info ...</string>
-    <string name="flattr_this">Micro-Donate !</string>
-    <string name="projPage">Homepage</string>
+    <string name="flattr_this">Micro-don !</string>
+    <string name="projPage">Site web</string>
 
-    <string name="themes">Themes ...</string>
+    <string name="themes">Thèmes ...</string>
     <string name="retro">Retro</string>
-    <string name="Day">Day</string>
-    <string name="Night">Night</string>
+    <string name="Day">Jour</string>
+    <string name="Night">Nuit</string>
 </resources>
